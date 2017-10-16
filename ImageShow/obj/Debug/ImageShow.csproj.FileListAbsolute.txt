@@ -1,0 +1,15 @@
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\ImageShow.exe
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\ImageShow.pdb
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.csprojResolveAssemblyReference.cache
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.Properties.Resources.resources
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.csproj.GenerateResource.Cache
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.exe
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.pdb
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\EntityFramework.dll
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\EntityFramework.xml
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\ImageShow\ImageShow\bin\Debug\ImageShow.exe.config
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.BrowseForm.resources
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.ProgressBarForm.resources
+C:\Users\Felek\documents\visual studio 2017\Projects\ImageShow\ImageShow\obj\Debug\ImageShow.MenuForm.resources
